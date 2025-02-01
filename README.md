@@ -1,4 +1,4 @@
-# Exploring-Blockchain-Tooling-to-Mitigate-AI-Agent-Induced-Data-Privacy-Violations
+# Exploring-Blockchain-Tooling-to-Mitigate-AI-Agent-Related-Data-Privacy-Violations
 
 **Overview**
 As AI agents become more autonomous, concerns about data privacy violations are escalating. This research explores how blockchain technology—specifically decentralized identity frameworks, immutable ledgers, and cryptographic security mechanisms—can help mitigate these risks.
